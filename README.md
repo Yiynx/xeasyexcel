@@ -8,7 +8,7 @@ easyexcel 扩展工具包 - 分页读取excel
 ``` xml
 <dependency>
     <groupId>cn.yiynx</groupId>
-    <artifactId>xif</artifactId>
+    <artifactId>xeasyexcel</artifactId>
     <version>1.0.0</version>
 </dependency>
 ```
